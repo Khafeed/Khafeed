@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khafeed
-- 👀 I’m interested in Web 3.0
+- 👀 I’m interested in learning Web 3.0 and blockchain
 - 🌱 I’m currently learning Web development basics
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me enesiabdulkhafid@gmail.com
